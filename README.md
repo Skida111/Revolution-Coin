@@ -51,7 +51,7 @@
 <body>
   <header>
     <h1>$REVO – Die finanzielle Revolution beginnt hier.</h1>
-    <p>Gegen Inflation. Gegen Banken. Für das Volk.<br />Jetzt Teil der Bewegung werden – auf Solana.</p>
+    <p>Gegen Inflation. Gegen Banken. Für alle.<br />Jetzt Teil der Bewegung werden – auf Solana.</p>
     <a class="btn" href="#">Buy $REVO</a>
     <a class="btn" href="#">Join Telegram</a>
   </header>
